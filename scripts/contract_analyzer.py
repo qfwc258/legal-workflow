@@ -6,9 +6,6 @@ import sys
 
 def analyze_contract(contract_path):
     """分析合同风险"""
-    # 读取合同
-    # 三层审查
-    # 生成报告
     pass
 
 if __name__ == '__main__':

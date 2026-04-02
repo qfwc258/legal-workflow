@@ -6,9 +6,6 @@ import sys
 
 def generate_timeline(case_facts):
     """生成时间轴"""
-    # 事实提取
-    # 节点排序
-    # HTML生成
     pass
 
 if __name__ == '__main__':

@@ -6,9 +6,6 @@ import sys
 
 def fill_legal_aid_doc(element_file, template_paths):
     """填充法援文档"""
-    # 读取元素
-    # 匹配占位符
-    # 填充模板
     pass
 
 if __name__ == '__main__':
